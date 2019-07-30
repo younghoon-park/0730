@@ -1,6 +1,6 @@
 # 한국어 프로젝트
 
-한국어 | [ENGLISH](https://github.com/younghoon-park/0730/edit/master/README-EN.md)
+한국어 | [ENGLISH](https://github.com/younghoon-park/0730/blob/master/REAEME-EN.md)
 
 아주멋진 프로젝트
 
